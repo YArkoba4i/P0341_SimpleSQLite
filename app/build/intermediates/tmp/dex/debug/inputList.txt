@@ -1,0 +1,2 @@
+E:\Android\P0341_SimpleSQLite\app\build\intermediates\classes\debug
+E:\Android\P0341_SimpleSQLite\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-a31f1e61bd4a011b83da67d684d9df9650e69858.jar
